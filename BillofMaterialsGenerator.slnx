@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BillofMaterialsGenerator.App/BillofMaterialsGenerator.App.csproj" />
+  <Project Path="BillofMaterialsGenerator.Core/BillofMaterialsGenerator.Core.csproj" />
+  <Project Path="BillofMaterialsGenerator.Tests/BillofMaterialsGenerator.Tests.csproj" />
+</Solution>
